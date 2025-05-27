@@ -26,7 +26,7 @@ To identify the highest-paying roles, I filtered data analyst positions by avera
 ### 1. Top Paying Data Analyst Jobs
 I analyze job market data to uncover insights that help professionals understand trends, especially in high-paying remote roles.
 
-Here’s an example where I used SQL to extract the Top 10 Highest-Paying Remote Data Analyst Jobs for 2025.
+Here’s an example where I used SQL to extract the Top 10 Highest-Paying Remote Data Analyst Jobs for 2023.
 
 ```sql
 SELECT 
@@ -54,12 +54,9 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Diverse Employers:** Companies like SmartAsset, Meta, and AT&T are among those offering high salaries, showing a broad interest accross different industries.
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
-<<<<<<< HEAD
-![Top Paying Roles](assets\top10avgsalarydistr.jpeg)
+![Top Paying Roles](assets/query1.jpeg)
 
-=======
-![Image](https://github.com/user-attachments/assets/e81948d2-6860-492d-96a4-f323da52729c)
->>>>>>> 0e2024908f27d5b7ada07965cbc5c694df48107e
+
 *Bar Graph visualizing the salary for the top 10 salaries for data analysts: ChatGPT generate this graph from my SQL queries results*
 
 ### 2. Skills for Top Paying Jobs
@@ -95,7 +92,7 @@ ORDER BY
     salary_year_avg DESC;
 ```
 
-Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in 2025.
+Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in 2023.
 
 - **SQL** is leading with a bold count of 8
 - **PYTHON** follows closely with a bold count of 7
